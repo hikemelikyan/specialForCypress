@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpecialForCypress</string>
+    <string name="default_network_error_message">No internet connection. Please try again later.</string>
+
+</resources>
